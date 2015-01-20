@@ -1,6 +1,6 @@
 <?
 // connect to database
-$con = mysqli_connect("localhost","root","root","ads2trade");
+$con = mysqli_connect("localhost","root","root","database");
 
 // Check connection
 if (mysqli_connect_errno()) {
